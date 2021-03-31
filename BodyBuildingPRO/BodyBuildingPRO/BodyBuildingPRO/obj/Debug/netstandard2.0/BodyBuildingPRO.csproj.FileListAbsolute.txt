@@ -3,6 +3,7 @@ D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildi
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\bin\Debug\netstandard2.0\ref\BodyBuildingPRO.dll
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\bin\Debug\netstandard2.0\BodyBuildingPRO.pdb
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.csprojAssemblyReference.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.AssemblyInfoInputs.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.AssemblyInfo.cs
@@ -11,6 +12,4 @@ D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildi
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.dll
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\ref\BodyBuildingPRO.dll
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.pdb
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\ViewModel\Login.xaml.g.cs
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\ViewModel\Register.xaml.g.cs
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Pages\sign_in.xaml.g.cs
