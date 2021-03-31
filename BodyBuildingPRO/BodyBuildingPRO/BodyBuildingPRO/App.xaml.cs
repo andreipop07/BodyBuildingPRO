@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BodyBuildingPRO.Views;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,8 @@ namespace BodyBuildingPRO
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new Login());
+            
         }
 
         protected override void OnStart()
