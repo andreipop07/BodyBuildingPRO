@@ -4,7 +4,11 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "BodyBuildingPRO.Android.dll" comes first in this list. */
 		"BodyBuildingPRO.Android.dll",
 		"BodyBuildingPRO.dll",
+		"Firebase.dll",
 		"FormsViewGroup.dll",
+		"LiteDB.dll",
+		"Newtonsoft.Json.dll",
+		"System.Reactive.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
@@ -58,5 +62,4 @@ public class MonoPackageManager_Resources {
 	};
 	public static String[] Dependencies = new String[]{
 	};
-	public static String ApiPackageName = "Mono.Android.Platform.ApiLevel_30";
 }

@@ -4,7 +4,6 @@ D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildi
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\bin\Debug\netstandard2.0\BodyBuildingPRO.pdb
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.csprojAssemblyReference.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.AssemblyInfoInputs.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.AssemblyInfo.cs
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.csproj.CoreCompileInputs.cache
@@ -12,7 +11,6 @@ D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildi
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.dll
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\ref\BodyBuildingPRO.dll
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.pdb
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Pages\sign_in.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\bin\Debug\netstandard2.0\BodyBuildingPRO.deps.json
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\bin\Debug\netstandard2.0\BodyBuildingPRO.dll
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\bin\Debug\netstandard2.0\ref\BodyBuildingPRO.dll
@@ -28,3 +26,5 @@ C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\B
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\BodyBuildingPRO.pdb
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs

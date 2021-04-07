@@ -1153,3 +1153,11 @@ C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\B
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\bodybuilder.jpg
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\bbuilder.png
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\x.png
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\bbuilder.png
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\bodybuilder.jpg
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\x.png
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Firebase.dll
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\LiteDB.dll
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\System.Reactive.dll
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
