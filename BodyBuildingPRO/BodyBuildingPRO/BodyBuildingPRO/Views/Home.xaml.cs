@@ -17,5 +17,10 @@ namespace BodyBuildingPRO.Views
             InitializeComponent();
 
         }
+
+        private async void Button_Free(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new FreeFront());
+        }
     }
 }

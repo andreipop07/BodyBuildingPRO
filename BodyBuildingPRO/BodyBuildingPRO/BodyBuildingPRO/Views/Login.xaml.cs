@@ -44,20 +44,7 @@ namespace BodyBuildingPRO.Views
 
         private async void Button_Register(object sender, EventArgs e)
         {
-            FirebaseClient firebase = new FirebaseClient("https://bodybuilding-f3671-default-rtdb.firebaseio.com/");
-
-            var person = await firebaseHelper.GetPerson(email.Text);
-            
-            if(person != null)
-            {
-                await DisplayAlert("Fail", "This username already exists", "OK");
-                password.Text = "";
-                email.Text = "";
-            }
-            await firebase
-                .Child("User")
-                .PostAsync(new User() { Name = email.Text, Password = password.Text });
-
+            await Navigation.PushAsync(new Signin());
         }
     }
 }

@@ -1161,3 +1161,9 @@ D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildi
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\System.Reactive.dll
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Firebase.dll
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\LiteDB.dll
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\System.Reactive.dll
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\front.png
