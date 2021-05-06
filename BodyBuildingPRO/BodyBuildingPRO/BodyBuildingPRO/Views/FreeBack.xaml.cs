@@ -16,5 +16,10 @@ namespace BodyBuildingPRO.Views
         {
             InitializeComponent();
         }
+
+        private async void Button_Rotate(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new FreeFront());
+        }
     }
 }

@@ -31,3 +31,7 @@ D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildi
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\Signup.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\FreeFront.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\FreeBack.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\AbsExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ChestExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\AbductorsExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\AdductorsExercises.xaml.g.cs

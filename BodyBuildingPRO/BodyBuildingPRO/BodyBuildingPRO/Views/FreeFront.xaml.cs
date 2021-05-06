@@ -16,9 +16,30 @@ namespace BodyBuildingPRO.Views
         {
             InitializeComponent();
         }
-        private async void Button_180(object sender, EventArgs e)
+        private async void Button_Rotate(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new FreeBack());
         }
+
+        private async void Button_Abs(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AbsExercises());
+        }
+
+        private async void Button_Chest(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ChestExercises());
+        }
+
+        private async void Button_Abductors(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AbductorsExercises());
+        }
+
+        private async void Button_Adductors(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AdductorsExercises());
+        }
+
     }
 }
