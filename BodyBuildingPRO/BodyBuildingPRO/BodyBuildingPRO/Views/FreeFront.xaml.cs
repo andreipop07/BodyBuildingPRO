@@ -16,5 +16,9 @@ namespace BodyBuildingPRO.Views
         {
             InitializeComponent();
         }
+        private async void Button_180(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new FreeBack());
+        }
     }
 }
