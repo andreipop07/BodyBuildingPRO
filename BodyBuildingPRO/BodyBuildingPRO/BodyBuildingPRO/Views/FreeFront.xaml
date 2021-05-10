@@ -16,11 +16,7 @@
         X2="144"
         Y2="140"
         Stroke="Red" />
-        <Label Text="Shoulders" FontSize="18" TextColor="Black" Margin="15,110,0,0"/>
-        <Label Text="Biceps" FontSize="18" TextColor="Black" Margin="15,150,0,0"/>
-        <Label Text="Forearms" FontSize="18" TextColor="Black" Margin="15,215,0,0"/>
-        <Label Text="Obliques" FontSize="18" TextColor="Black" Margin="15,250,0,0"/>
-        <Label Text="Quads" FontSize="18" TextColor="Black" Margin="15,345,0,0"/>
+        
         <ImageButton Source="rotate.png" 
             BackgroundColor="Transparent"
             Margin="310,490,24,10" 
@@ -31,6 +27,11 @@
         <Button Text="Abs" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="325,110,0,310" Clicked="Button_Abs"/>
         <Button Text="Abductors"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="300,120,0,0" Clicked="Button_Abductors"/>
         <Button Text="Adductors"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="300,180,0,0" Clicked="Button_Adductors"/>
+        <Button Text="Shoulders"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="3,-355,0,0" Clicked="Button_Shoulders"/>
+        <Button Text="Biceps"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="-2,-280,0,0" Clicked="Button_Biceps"/>
+        <Button Text="Forearms"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="3,-180,0,0" Clicked="Button_Forearms"/>
+        <Button Text="Obliques"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="3,-70,0,0" Clicked="Button_Obliques"/>
+        <Button Text="Quads"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="-3,100,0,0" Clicked="Button_Quads"/>
     </Grid>
 
 </ContentPage>

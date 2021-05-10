@@ -41,5 +41,29 @@ namespace BodyBuildingPRO.Views
             await Navigation.PushAsync(new AdductorsExercises());
         }
 
+        private async void Button_Shoulders(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ShouldersExercises());
+        }
+
+        private async void Button_Biceps(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new BicepsExercises());
+        }
+
+        private async void Button_Forearms(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ForearmsExercises());
+        }
+
+        private async void Button_Obliques(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ObliquesExercises());
+        }
+
+        private async void Button_Quads(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new QuadsExercises());
+        }
     }
 }
