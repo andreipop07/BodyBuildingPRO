@@ -40,3 +40,10 @@ C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\B
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ForearmsExercises.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ObliquesExercises.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\QuadsExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\CalvesExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\GlutesExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\HamstringsExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\LatsExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\LowerExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TrapsExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TricepsExercises.xaml.g.cs

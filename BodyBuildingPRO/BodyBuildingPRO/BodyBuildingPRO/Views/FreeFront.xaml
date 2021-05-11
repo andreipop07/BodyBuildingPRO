@@ -16,17 +16,100 @@
         X2="144"
         Y2="140"
         Stroke="Red" />
-        
+
+        <Line X1="40"
+        Y1="178"
+        X2="140"
+        Y2="178"
+        Stroke="Red" />
+        <Line X1="40"
+        Y1="171"
+        X2="40"
+        Y2="178"
+        Stroke="Red" />
+
+        <Line X1="40"
+        Y1="228"
+        X2="122"
+        Y2="228"
+        Stroke="Red" />
+        <Line X1="40"
+        Y1="221"
+        X2="40"
+        Y2="228"
+        Stroke="Red" />
+
+        <Line X1="85"
+        Y1="268"
+        X2="180"
+        Y2="268"
+        Stroke="Red" />
+
+        <Line X1="68"
+        Y1="353"
+        X2="168"
+        Y2="353"
+        Stroke="Red" />
+
+        <Line X1="375"
+        Y1="145"
+        X2="375"
+        Y2="152"
+        Stroke="Red" />
+        <Line X1="234"
+        Y1="152"
+        X2="375"
+        Y2="152"
+        Stroke="Red" />
+
+        <Line X1="371"
+        Y1="211"
+        X2="371"
+        Y2="218"
+        Stroke="Red" />
+        <Line X1="225"
+        Y1="218"
+        X2="371"
+        Y2="218"
+        Stroke="Red" />
+
+        <Line X1="262"
+        Y1="348"
+        X2="311"
+        Y2="348"
+        Stroke="Red" />
+
+        <Line X1="219"
+        Y1="382"
+        X2="311"
+        Y2="382"
+        Stroke="Red" />
+        <Line X1="219"
+        Y1="365"
+        X2="219"
+        Y2="382"
+        Stroke="Red" />
+
+        <Label Text="." TextColor="Red" FontSize="90" Margin="134,49,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="128,87,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="112,137,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="172,177,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="219,61,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="248,257,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="208,273,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="155,263,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="209,127,0,0"/>
+
         <ImageButton Source="rotate.png" 
             BackgroundColor="Transparent"
             Margin="310,490,24,10" 
             Clicked="Button_Rotate"
             Aspect="AspectFit">
         </ImageButton>
-        <Button Text="Chest" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="325,-10,0,310" Clicked="Button_Chest"/>
+        <Button Text="Chest" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="325,-20,0,310" Clicked="Button_Chest"/>
         <Button Text="Abs" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="325,110,0,310" Clicked="Button_Abs"/>
-        <Button Text="Abductors"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="300,120,0,0" Clicked="Button_Abductors"/>
-        <Button Text="Adductors"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="300,180,0,0" Clicked="Button_Adductors"/>
+        <Button Text="Abductors"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="300,90,0,0" Clicked="Button_Abductors"/>
+        <Button Text="Adductors"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="300,160,0,0" Clicked="Button_Adductors"/>
         <Button Text="Shoulders"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="3,-355,0,0" Clicked="Button_Shoulders"/>
         <Button Text="Biceps"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="-2,-280,0,0" Clicked="Button_Biceps"/>
         <Button Text="Forearms"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="3,-180,0,0" Clicked="Button_Forearms"/>

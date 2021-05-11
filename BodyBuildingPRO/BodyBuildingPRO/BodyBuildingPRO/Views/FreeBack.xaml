@@ -6,11 +6,107 @@
 
     <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0">
         <Image x:Name="Back" Aspect="AspectFill" Grid.RowSpan="1" Source="back.jpeg" Opacity="1"  HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" HeightRequest="900"/>
+
+        <Line X1="35"
+        Y1="112"
+        X2="35"
+        Y2="119"
+        Stroke="Red" />
+        <Line X1="35"
+        Y1="119"
+        X2="160"
+        Y2="119"
+        Stroke="Red" />
+
+        <Line X1="35"
+        Y1="171"
+        X2="35"
+        Y2="178"
+        Stroke="Red" />
+        <Line X1="35"
+        Y1="178"
+        X2="125"
+        Y2="178"
+        Stroke="Red" />
+
+        <Line X1="50"
+        Y1="377"
+        X2="50"
+        Y2="384"
+        Stroke="Red" />
+        <Line X1="50"
+        Y1="384"
+        X2="170"
+        Y2="384"
+        Stroke="Red" />
+
+        <Line X1="40"
+        Y1="451"
+        X2="40"
+        Y2="458"
+        Stroke="Red" />
+        <Line X1="40"
+        Y1="458"
+        X2="168"
+        Y2="458"
+        Stroke="Red" />
+
+        <Line X1="371"
+        Y1="240"
+        X2="371"
+        Y2="247"
+        Stroke="Red" />
+        <Line X1="225"
+        Y1="247"
+        X2="371"
+        Y2="247"
+        Stroke="Red" />
+
+        <Line X1="371"
+        Y1="303"
+        X2="371"
+        Y2="310"
+        Stroke="Red" />
+        <Line X1="235"
+        Y1="310"
+        X2="371"
+        Y2="310"
+        Stroke="Red" />
+
+        <Line X1="371"
+        Y1="146"
+        X2="371"
+        Y2="154"
+        Stroke="Red" />
+        <Line X1="245"
+        Y1="154"
+        X2="371"
+        Y2="154"
+        Stroke="Red" />
+
+        <Label Text="." TextColor="Red" FontSize="90" Margin="150,28,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="113,87,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="219,219,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="215,156,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="233,63,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="219,219,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="160,293,0,0"/>
+        <Label Text="." TextColor="Red" FontSize="90" Margin="158,367,0,0"/>
+
         <ImageButton Source="rotate.png" 
             BackgroundColor="Transparent"
             Margin="310,490,24,10" 
             Clicked="Button_Rotate"
             Aspect="AspectFit">
         </ImageButton>
+        
+        <Button Text="Lats" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="324,-20,0,310" Clicked="Button_Lats"/>
+        <Button Text="Lower" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="338,170,0,310" Clicked="Button_Lower"/>
+        <Button Text="Glutes"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="337,-20,0,0" Clicked="Button_Glutes"/>
+        <Button Text="Traps"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="-9,-400,0,0" Clicked="Button_Traps"/>
+        <Button Text="Triceps"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="-2,-280,0,0" Clicked="Button_Triceps"/>
+        <Button Text="Hamstrings"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="2,130,0,0" Clicked="Button_Hamstrings"/>
+        <Button Text="Calves"  VerticalOptions="CenterAndExpand" HorizontalOptions="Start" BackgroundColor="Transparent" TextTransform="None" FontSize="18" TextColor="Black" Margin="-3,280,0,0" Clicked="Button_Calves"/>
+        
     </Grid>
 </ContentPage>
