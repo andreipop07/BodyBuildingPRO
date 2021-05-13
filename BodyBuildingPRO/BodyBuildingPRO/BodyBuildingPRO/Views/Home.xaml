@@ -3,10 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BodyBuildingPRO.Views.Home">
     <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="0">
-        
+
         <Image x:Name="Bodybuilder" Aspect="AspectFill" Grid.RowSpan="1" Source="Bodybuilder.jpg" Opacity="1" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
-        <ImageButton Aspect="AspectFit" Source="X.png" Margin="347,-534,0,0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Opacity="1" />
-        
+
         <StackLayout Orientation="Horizontal" Spacing="50" HorizontalOptions="Center">
             <Label Text="BodyBuildingPRO" TextColor="#FBA700" FontSize="40" Margin="0,107,0,0" />
         </StackLayout>

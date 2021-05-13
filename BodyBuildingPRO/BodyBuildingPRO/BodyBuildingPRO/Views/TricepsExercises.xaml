@@ -2,11 +2,25 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BodyBuildingPRO.Views.TricepsExercises">
-    <ContentPage.Content>
+    <NavigationPage.TitleView>
         <StackLayout>
-            <Label Text="Welcome to Triceps!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Image="star.png" AbsoluteLayout.LayoutFlags="PositionProportional" BackgroundColor="Transparent"  Margin="0,0,65,0" Clicked="Button_Favourites" />
         </StackLayout>
-    </ContentPage.Content>
+    </NavigationPage.TitleView>
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Triceps" HorizontalOptions="Center" TextColor="Black" FontSize="30"/>
+            <Button Image="search.png" BackgroundColor="Transparent" Margin="-350,-51,0,0"/>
+            <Button Text="Cable Triceps Pushdown" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="EZ-Bar Triceps Extension" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="EZ-Bar Triceps Press" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Dumbbell Triceps Extension" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Cable Triceps Extension" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Dumbbell Triceps Kickback" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Bench Press" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Cable Triceps Kickback" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Dip Machine" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Pushup Narrow Grip" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

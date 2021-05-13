@@ -16,9 +16,9 @@
             <Button WidthRequest="313" HeightRequest="53" BackgroundColor="#ff8f8e88" CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" Opacity="0.49" />
             <Entry x:Name="password2" IsPassword="True"  Placeholder="Confirm password" PlaceholderColor="#E2E2E2" TextColor="#E2E2E2" FontSize="24" FontFamily="Arial" Margin="30,-56,0,0"  FontAttributes="Italic" />
             <Button WidthRequest="313" HeightRequest="53" BackgroundColor="#ff8f8e88" CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" Opacity="0.49" />
-            <Entry x:Name="weight" IsPassword="True"  Placeholder="Enter your weight" PlaceholderColor="#E2E2E2" TextColor="#E2E2E2" FontSize="24" FontFamily="Arial" Margin="30,-56,0,0"  FontAttributes="Italic" />
+            <Entry x:Name="weight" Placeholder="Enter your weight" PlaceholderColor="#E2E2E2" TextColor="#E2E2E2" FontSize="24" FontFamily="Arial" Margin="30,-56,0,0"  FontAttributes="Italic" />
             <Button WidthRequest="313" HeightRequest="53" BackgroundColor="#ff8f8e88" CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" Opacity="0.49" />
-            <Entry x:Name="height" IsPassword="True"  Placeholder="Enter your height" PlaceholderColor="#E2E2E2" TextColor="#E2E2E2" FontSize="24" FontFamily="Arial" Margin="30,-56,0,0"  FontAttributes="Italic" />
+            <Entry x:Name="height" Placeholder="Enter your height" PlaceholderColor="#E2E2E2" TextColor="#E2E2E2" FontSize="24" FontFamily="Arial" Margin="30,-56,0,0"  FontAttributes="Italic" />
             <Button Text="Create account" WidthRequest="180" HeightRequest="53" BackgroundColor="#0000" TextColor="#FBA700" FontSize="20" TextTransform="None" HorizontalOptions="Center" Opacity="1" Margin="0,30,0,0" Clicked="Button_signup"/>
 
         </StackLayout>
