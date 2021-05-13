@@ -47,3 +47,4 @@ C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\B
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\LowerExercises.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TrapsExercises.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TricepsExercises.xaml.g.cs
+C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ForgotPasswordPage.xaml.g.cs

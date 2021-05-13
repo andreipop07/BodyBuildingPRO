@@ -15,6 +15,13 @@ namespace BodyBuildingPRO.Views
         public ChestExercises()
         {
             InitializeComponent();
+
         }
+
+        private async void Button_Favourites(object sender, EventArgs e)
+        {
+            await Navigation.PopAsync();
+        }
+
     }
 }

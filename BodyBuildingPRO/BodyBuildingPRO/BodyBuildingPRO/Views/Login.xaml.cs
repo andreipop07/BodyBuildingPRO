@@ -46,5 +46,10 @@ namespace BodyBuildingPRO.Views
         {
             await Navigation.PushAsync(new Signin());
         }
+
+        private async void Button_Forgot(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ForgotPasswordPage());
+        }
     }
 }
