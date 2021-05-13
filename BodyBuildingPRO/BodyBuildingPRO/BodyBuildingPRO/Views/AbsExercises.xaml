@@ -2,11 +2,26 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BodyBuildingPRO.Views.AbsExercises">
-    <ContentPage.Content>
+    <NavigationPage.TitleView>
         <StackLayout>
-            <Label Text="Welcome to Abs!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Image="star.png" AbsoluteLayout.LayoutFlags="PositionProportional" BackgroundColor="Transparent"  Margin="0,0,65,0" Clicked="Button_Favourites" />
         </StackLayout>
-    </ContentPage.Content>
+    </NavigationPage.TitleView>
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Abs" HorizontalOptions="Center" TextColor="Black" FontSize="30"/>
+            <Button Image="search.png" BackgroundColor="Transparent" Margin="-350,-51,0,0"/>
+            <Button Text="Crunch" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Bicycle Crunch" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Situps" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Weighted Situps" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Decline Situps" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Plank" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Lying Reverse Crunch Up" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Mountain Climbers" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Lying Leg Raise" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Hanging Leg Raise" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Kneeling Cable Crunch" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

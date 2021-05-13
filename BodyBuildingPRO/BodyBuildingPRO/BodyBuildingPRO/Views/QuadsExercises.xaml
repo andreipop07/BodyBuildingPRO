@@ -2,11 +2,22 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BodyBuildingPRO.Views.QuadsExercises">
-    <ContentPage.Content>
+    <NavigationPage.TitleView>
         <StackLayout>
-            <Label Text="Welcome to Quads!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Image="star.png" AbsoluteLayout.LayoutFlags="PositionProportional" BackgroundColor="Transparent"  Margin="0,0,65,0" Clicked="Button_Favourites" />
         </StackLayout>
-    </ContentPage.Content>
+    </NavigationPage.TitleView>
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Quads" HorizontalOptions="Center" TextColor="Black" FontSize="30"/>
+            <Button Image="search.png" BackgroundColor="Transparent" Margin="-350,-51,0,0"/>
+            <Button Text="Leg Raise Machine" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Leg Press Machine" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Barbell Squat" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Barbell Lunge" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Walking Lunge with Weights" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Cable DeadLift" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+            <Button Text="Barbell Deadlift" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l2PvkwtwpeXp+UJ1m9Nn+iceVr+GbLTSiJBPgDD5Flj9OLp2GHWzS6gk7F4MjM5omHNGIFtb4IbojggWIrwNlA==",
+  "dgSpecHash": "xq3Gdbuaazig5G/a8eEA2CpaSy+Y0Dk9IfEium+0WqPJBX+f7M8ovpn9xSE5EhslQs3YYhYauKMOtktsEumbCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\Desktop\\BALUBAS\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.Android\\BodyBuildingPRO.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\firebasedatabase.net\\4.0.6\\firebasedatabase.net.4.0.6.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\rg.plugins.popup\\2.0.0.11\\rg.plugins.popup.2.0.0.11.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
