@@ -48,3 +48,23 @@ C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\B
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TrapsExercises.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TricepsExercises.xaml.g.cs
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ForgotPasswordPage.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\AbductorsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\AbsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\AdductorsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\BicepsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\CalvesExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ChestExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ForearmsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ForgotPasswordPage.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\FreeBack.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\FreeFront.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\GlutesExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\HamstringsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\LatsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\LowerExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ObliquesExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\QuadsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\ShouldersExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\Signup.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TrapsExercises.xaml.g.cs
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\obj\Debug\netstandard2.0\Views\TricepsExercises.xaml.g.cs

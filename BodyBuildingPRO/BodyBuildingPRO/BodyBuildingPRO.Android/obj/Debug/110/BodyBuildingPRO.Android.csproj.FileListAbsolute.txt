@@ -13,23 +13,14 @@ D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildi
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\BodyBuildingPRO.Android.csprojAssemblyReference.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res.flag
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\44\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\45\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\51\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\54\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\55\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\62\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\63\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\67\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\68\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\70\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\71\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\72\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\73\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\75\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\76\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\79\jl\files.cache
-D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\87\jl\files.cache
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\R.txt
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\R.cs.flag
 D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\BodyBuildingPRO.Android.csproj.CoreCompileInputs.cache
@@ -1176,3 +1167,22 @@ C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\B
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Rg.Plugins.Popup.pdb
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
 C:\Users\andre\Desktop\BALUBAS\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\46\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\52\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\56\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\64\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\69\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\74\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\77\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\80\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\lp\88\jl\files.cache
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\front.png
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\rotate.png
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\back.jpeg
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\star.png
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\bckgr.jpg
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\res\drawable\search.png
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Rg.Plugins.Popup.dll
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\assets\Rg.Plugins.Popup.pdb
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\Poli\An 3\Sem 2\IC\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.Android\obj\Debug\110\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java

@@ -2563,24 +2563,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\darau\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\BALUBAS\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.Android\\BodyBuildingPRO.Android.csproj",
+      "projectUniqueName": "D:\\Poli\\An 3\\Sem 2\\IC\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.Android\\BodyBuildingPRO.Android.csproj",
       "projectName": "BodyBuildingPRO.Android",
-      "projectPath": "C:\\Users\\andre\\Desktop\\BALUBAS\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.Android\\BodyBuildingPRO.Android.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\BALUBAS\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.Android\\obj\\",
+      "projectPath": "D:\\Poli\\An 3\\Sem 2\\IC\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.Android\\BodyBuildingPRO.Android.csproj",
+      "packagesPath": "C:\\Users\\darau\\.nuget\\packages\\",
+      "outputPath": "D:\\Poli\\An 3\\Sem 2\\IC\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\darau\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2594,8 +2594,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\andre\\Desktop\\BALUBAS\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.csproj": {
-              "projectPath": "C:\\Users\\andre\\Desktop\\BALUBAS\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.csproj"
+            "D:\\Poli\\An 3\\Sem 2\\IC\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.csproj": {
+              "projectPath": "D:\\Poli\\An 3\\Sem 2\\IC\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO\\BodyBuildingPRO.csproj"
             }
           }
         }

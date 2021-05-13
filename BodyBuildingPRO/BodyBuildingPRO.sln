@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyBuildingPRO.Android", "BodyBuildingPRO\BodyBuildingPRO.Android\BodyBuildingPRO.Android.csproj", "{5046E7C7-B0CC-4302-84A4-CF968516011F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyBuildingPRO", "BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.csproj", "{CE53DDE8-1331-4D0F-B7CE-1157F2C53BA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BodyBuildingPRO", "BodyBuildingPRO\BodyBuildingPRO\BodyBuildingPRO.csproj", "{CE53DDE8-1331-4D0F-B7CE-1157F2C53BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITest1", "UITest1\UITest1.csproj", "{72E7F2F1-9F5F-478D-90C7-CDB8FD647E48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{CE53DDE8-1331-4D0F-B7CE-1157F2C53BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE53DDE8-1331-4D0F-B7CE-1157F2C53BA2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE53DDE8-1331-4D0F-B7CE-1157F2C53BA2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{72E7F2F1-9F5F-478D-90C7-CDB8FD647E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E7F2F1-9F5F-478D-90C7-CDB8FD647E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E7F2F1-9F5F-478D-90C7-CDB8FD647E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E7F2F1-9F5F-478D-90C7-CDB8FD647E48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ieg4+esf08H4GTDmN0/5vyODJoRnUiCMSWE3MiCNromGel4ZokaYp37JiZr30jU46kq///MyD4DpmgChJM9+5A==",
+  "success": false,
+  "projectFilePath": "D:\\Poli\\An 3\\Sem 2\\IC\\BodyBuildingPRO\\BodyBuildingPRO\\UITest1\\UITest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darau\\.nuget\\packages\\firebasedatabase.net\\4.0.6\\firebasedatabase.net.4.0.6.nupkg.sha512",
+    "C:\\Users\\darau\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
+    "C:\\Users\\darau\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\darau\\.nuget\\packages\\rg.plugins.popup\\2.0.0.11\\rg.plugins.popup.2.0.0.11.nupkg.sha512",
+    "C:\\Users\\darau\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\darau\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.uitest\\3.0.5\\xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BodyBuildingPRO.Android is not compatible with net461 (.NETFramework,Version=v4.6.1). Project BodyBuildingPRO.Android supports: monoandroid11.0 (MonoAndroid,Version=v11.0)",
+      "libraryId": "BodyBuildingPRO.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BodyBuildingPRO.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win. Project BodyBuildingPRO.Android supports: monoandroid11.0 (MonoAndroid,Version=v11.0)",
+      "libraryId": "BodyBuildingPRO.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BodyBuildingPRO.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x64. Project BodyBuildingPRO.Android supports: monoandroid11.0 (MonoAndroid,Version=v11.0)",
+      "libraryId": "BodyBuildingPRO.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BodyBuildingPRO.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x86. Project BodyBuildingPRO.Android supports: monoandroid11.0 (MonoAndroid,Version=v11.0)",
+      "libraryId": "BodyBuildingPRO.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}
