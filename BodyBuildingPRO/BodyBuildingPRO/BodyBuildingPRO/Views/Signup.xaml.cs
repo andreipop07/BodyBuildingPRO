@@ -46,7 +46,7 @@ namespace BodyBuildingPRO.Views
          }
 
 
-        bool IsValidEmail(string email)
+        public bool IsValidEmail(string email)
         {
             try
             {

@@ -8,7 +8,7 @@
         </StackLayout>
     </NavigationPage.TitleView>
     <ScrollView>
-        <StackLayout>
+        <StackLayout BackgroundColor="WhiteSmoke">
             <Label Text="Glutes" HorizontalOptions="Center" TextColor="Black" FontSize="30"/>
             <Button Image="search.png" BackgroundColor="Transparent" Margin="-350,-51,0,0"/>
             <Button Text="Barbell Thrust" FontSize="20" TextTransform="None" WidthRequest="313" HeightRequest="53" BackgroundColor="#C7C7C4"  CornerRadius="30" HorizontalOptions="Center" Margin="0,20,0,0" />

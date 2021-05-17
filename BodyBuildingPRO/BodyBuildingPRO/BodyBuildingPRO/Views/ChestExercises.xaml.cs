@@ -23,5 +23,10 @@ namespace BodyBuildingPRO.Views
             await Navigation.PopAsync();
         }
 
+        private async void Button_BP(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Chest_BP());
+        }
+
     }
 }
